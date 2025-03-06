@@ -179,7 +179,7 @@ This [website](https://www.wcyachts.com/yacht-for-sale/Lagoon-45-450-F-2017-Vent
     - Veronica + Emily
     - Jesse + Melissa
     - Becky
-    - (Sebastian)
+    - Sebastian
 
 #### Sol
 - Oren
@@ -199,7 +199,8 @@ Please visit [FAQ page](/faq.html). If the answer to your question isn't there, 
 
 Example questions (nothing is off-limits):
 - Packing list
-- Seasickness - stugeron is available for sale on the island. It is similar to dramamine. We used it every day on our trip last year and had no issues.
-- Max time at sea 
+- Seasickness
+- Max time at sea
 - Sleeping arrangements
-- Sailing on other boats (must have enough experienced crew on each boat)
+- Sailing on other boats
+- Safety gear
