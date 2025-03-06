@@ -26,7 +26,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 
 ---
 
-## 📅 Itinerary
+## 📅 Itinerary (IP)
 
 #### Sunday May 25th
 <ul>
@@ -41,63 +41,59 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 #### Monday May 26th
 <ul>
   <li>Breakfast on board</li>
-  <li>Sail out of Blue Lagoon Marina to ____</li>
+  <li>Sail out of Blue Lagoon Marina to Bequia</li>
   <ul>
-    <li>Duration: ~4hrs </li>
-  </ul>
-  <ul>
-    <li>Contingency stop at ____ </li>
+    <li>Duration: ~1.5 hrs</li>
   </ul>
 </ul>
 
 #### Tuesday May 27th
 <ul>
-  <li>Sail out of ___ to ____</li>
+  <li>Sail out of Bequia to Tobago Cays</li>
   <ul>
-    <li>Duration: ~4hrs </li>
+    <li>Duration: ~4-5 hrs</li>
   </ul>
-  <ul>
-    <li>Details</li>
+   <ul>
+    <li>Contingency stop at Canouan</li>
   </ul>
 </ul>
 
 #### Wednesday May 28th
 <ul>
-  <li>Sail out of ___ to ____</li>
+  <li>Sail out of Tobago Cays to Mayreau</li>
   <ul>
-    <li>Duration: ~4hrs </li>
-  </ul>
-  <ul>
-    <li>Details</li>
+    <li>Duration: ~1 hr</li>
   </ul>
 </ul>
 
 #### Thursday May 29th
 <ul>
-  <li>Sail out of ___ to ____</li>
+  <li>Sail out of Mayreau to Union Island</li>
   <ul>
-    <li>Duration: ~4hrs </li>
+    <li>Duration: ~1 hr</li>
   </ul>
   <ul>
-    <li>Details</li>
+    <li>Can visit Happy Island by Dinghy</li>
+    <li>Can rent scuba gear</li>
+    <li>Can spend time wing foiling</li>
   </ul>
 </ul>
 
 #### Friday May 30th
 <ul>
-  <li>Sail out of ___ to ____</li>
+  <li>Sail out of Union Island to Bequia</li>
   <ul>
-    <li>Duration: ~4hrs </li>
-  </ul>
-  <ul>
-    <li>Details</li>
+    <li>Duration: ~5.5 hrs</li>
   </ul>
 </ul>
 
 #### Saturday May 31st
-<ul>
-  <li>Return to Blue Lagoon Marina</li>
-  <li>Sleep on the boats in the marina</li>
+<ul><li>Sail out of Bequia to Blue Lagoon Marina?</li>
+  <ul>
+    <li>Duration: ~1.5 hrs</li>
+  </ul>
+  <li>Dinner in the marina</li>
+  <li>Sleep on the boats</li>
 </ul>
 
 #### Sunday June 1st
