@@ -88,7 +88,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 </ul>
 
 #### Saturday May 31st
-<ul><li>Sail out of Bequia to Blue Lagoon Marina?</li>
+<ul><li>Sail out of Bequia to Blue Lagoon Marina</li>
   <ul>
     <li>Duration: ~1.5 hrs</li>
   </ul>
@@ -152,7 +152,7 @@ These boats are designed for cruising and have a kitchen (microwave, oven, stove
 #### Outside
 ![Lagoon 42](https://admin.catamarans-lagoon.com/sites/default/files/2024-09/catamaran-lagoon-42-cover.jpg)
 
-### Deck Level Layout
+#### Deck Level Layout
 ![Salon Layout](https://admin.catamarans-lagoon.com/sites/default/files/2023-07/cockpit%20new.png)
 
 #### Cabin Level Layout
