@@ -41,54 +41,79 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 #### Monday May 26th
 <ul>
   <li>Breakfast on board</li>
-  <li>Sail out of Blue Lagoon Marina to Bequia</li>
+  <li>Sail out of Blue Lagoon Marina to Admiralty Bay, Bequia</li>
   <ul>
     <li>Duration: ~1.5 hrs</li>
   </ul>
+  <li>Walk along Princess Margaret Trail to Princess Margaret Beach</li>
+  <li>Visit any of the shops on shore
+    <ul>
+      <li><a href="https://www.google.com/maps/place/Sargeant+Brothers+Model+Boat+Shop/@13.0126655,-61.2384323,17z/data=!3m1!4b1!4m6!3m5!1s0x8c4759593ad70ac1:0x605f04f33a96b6ae!8m2!3d13.0126655!4d-61.2384323!16s%2Fg%2F11gdt2g7sf?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D">Sargeant Brothers Model boat shop</a></li>
+    </ul>
+  </li>
+  <li>Have dinner at <a href="https://jacksbeachbar.com/#Menu">Jack's Beach Bar</a> (or other, will make reservations)</li>
 </ul>
 
 #### Tuesday May 27th
 <ul>
   <li>Sail out of Bequia to Tobago Cays</li>
   <ul>
-    <li>Duration: ~4-5 hrs</li>
+    <li>Duration: ~3.5 hrs</li>
   </ul>
    <ul>
     <li>Contingency stop at Canouan</li>
   </ul>
+  <li>Can snorkel around Tobago Cays, loads of wildlife</li>
+  <li>Short hike to the peak for panoramic view</li>
+  <li>Pre-order family-style dinner from vendors at the picnic benches</li>
 </ul>
 
 #### Wednesday May 28th
 <ul>
-  <li>Sail out of Tobago Cays to Mayreau</li>
+  <li>Sail out of Tobago Cays to Salt Whistle Bay, Mayreau</li>
   <ul>
-    <li>Duration: ~1 hr</li>
+    <li>Duration: ~30 min</li>
+  </ul>
+  <li>Can spend time kiting & wing foiling</li>
+  <li>
+    Restaurants:
+  </li>
+  <ul>
+    <li>Last Bar Before the Jungle</li>
+    <li>Denis' Hideaway</li>
+    <li>Ranch Escapade</li>
   </ul>
 </ul>
 
 #### Thursday May 29th
 <ul>
-  <li>Sail out of Mayreau to Union Island</li>
+  <li>Sail out of Mayreau to Clifton Bay, Union Island</li>
   <ul>
     <li>Duration: ~1 hr</li>
   </ul>
+  <li>Can visit <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy</li>
+  <li>Can rent scuba gear from <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
   <ul>
-    <li>Can visit Happy Island by Dinghy</li>
-    <li>Can rent scuba gear</li>
-    <li>Can spend time wing foiling</li>
+    <li>Can also arrange to go diving on other islands ahead of time</li>
   </ul>
+  <li>Can spend time kiting & wing foiling
+    <ul>
+      <li><a href="https://www.happykitegrenadines.com/">Happy Kite Grenadines</a></li>
+      <li><a href="JT Pro Center">JT Pro Center</a></li>
+    </ul>
+  </li>
 </ul>
 
 #### Friday May 30th
 <ul>
-  <li>Sail out of Union Island to Bequia</li>
+  <li>Sail out of Union Island to Admiralty Bay, Bequia OR Mustique</li>
   <ul>
-    <li>Duration: ~5.5 hrs</li>
+    <li>Duration: ~4 hrs</li>
   </ul>
 </ul>
 
 #### Saturday May 31st
-<ul><li>Sail out of Bequia to Blue Lagoon Marina</li>
+<ul><li>Sail out of Bequia/Mustique to Blue Lagoon Marina</li>
   <ul>
     <li>Duration: ~1.5 hrs</li>
   </ul>
@@ -172,7 +197,7 @@ This [website](https://www.wcyachts.com/yacht-for-sale/Lagoon-45-450-F-2017-Vent
 #### Take It Easy
 - Jenn
 - Luke
-    - Veronica + Emily
+    - Veronica + Emily (+ Inka)
     - Jesse + Melissa
     - Becky
     - Sebastian
@@ -184,11 +209,13 @@ This [website](https://www.wcyachts.com/yacht-for-sale/Lagoon-45-450-F-2017-Vent
     - Linda
     - Angelica
 
-#### Lagoon 42 No.2
+#### Rogue Pirate Boat #27
 - Anthony + Jen
 - Josh
     - Kate
     - Allyson + Colin
+
+---
 
 ## FAQ
 Please visit [FAQ page](/faq.html). If the answer to your question isn't there, email (or text) [Jennifer](mailto:jscheinhorn@gmail.com?subject=FAQ%20Question&body=Question%20:).
