@@ -194,6 +194,8 @@ This [website](https://www.wcyachts.com/yacht-for-sale/Lagoon-45-450-F-2017-Vent
 
 ## 🧭 Who are the skippers and crew?
 
+Everyone's contact information is available [here](https://docs.google.com/spreadsheets/d/1Bl-4b6iaoG-WCCpO15-4xHGYJLqnGkMvij6LHnqanyM/edit?usp=sharing).
+
 #### Take It Easy
 - Jenn
 - Luke
@@ -208,6 +210,8 @@ This [website](https://www.wcyachts.com/yacht-for-sale/Lagoon-45-450-F-2017-Vent
     - Peter + Jane
     - Linda
     - Angelica
+    - Sean
+    - Elena
 
 #### Rogue Pirate Boat #27
 - Anthony + Jen
