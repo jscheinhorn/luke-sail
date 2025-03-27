@@ -186,7 +186,7 @@ These boats are designed for cruising and have a kitchen (microwave, oven, stove
 #### Cabins and sleeping
 Each boat has four cabins that accommodate two people each. The cabins come with private ensuite bathrooms with full showers. They also include reading lights, storage for shoes and gear, and a closet for hanging clothes. There is an additional berth for sleeping in the saloon, which converts into a bed. The Lagoon 45 also has two forepeak cabins which are accessible from the deck only and have space to accommodate one person each.
 
-Our Vessels are [Sol](https://12knots.com/en/yacht-charter/lagoon-42-premium-ac/sol-sed28283/) (42'), [Take It Easy](https://12knots.com/en/yacht-charter/lagoon-450-premium-ac/take-it-easy-sed32385/) (45'), and [Affligem](https://12knots.com/en/yacht-charter/lagoon-42-premium-ac/fort-sed58316/).
+Our Vessels are [Sol](https://12knots.com/en/yacht-charter/lagoon-42-premium-ac/sol-sed28283/) (42'), [Take It Easy](https://12knots.com/en/yacht-charter/lagoon-450-premium-ac/take-it-easy-sed32385/) (45'), and [Affligem](https://12knots.com/en/yacht-charter/lagoon-42-premium-ac/fort-sed58316/) (42').
 
 This [website](https://www.wcyachts.com/yacht-for-sale/Lagoon-45-450-F-2017-Ventura-CA-9696671/) has some additional nice photos.
 
