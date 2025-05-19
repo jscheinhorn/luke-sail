@@ -80,7 +80,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 <ul>
   <li>Sail out of Clifton Bay, Union Island to Salt Whistle Bay, Mayreau</li>
   <ul>
-    <li>Duration: ~45 min</li>
+    <li>Duration: ~1.5 hr</li>
   </ul>
   <li>Can spend time kiting & wing foiling</li>
   <li>
@@ -203,6 +203,7 @@ Everyone's contact information is available [here](https://docs.google.com/sprea
     - Jesse + Melissa
     - Becky
     - Sebastian
+    - Tom + Diana
 
 #### Sol
 - Oren
