@@ -56,40 +56,12 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 
 #### Tuesday May 27th
 <ul>
-  <li>Sail out of Bequia to Tobago Cays</li>
+  <li>Sail out of Bequia to Clifton Bay, Union Island</li>
   <ul>
-    <li>Duration: ~3.5 hrs</li>
+    <li>Duration: ~4.5 hr</li>
   </ul>
-   <ul>
+  <ul>
     <li>Contingency stop at Canouan</li>
-  </ul>
-  <li>Can snorkel around Tobago Cays, loads of wildlife</li>
-  <li>Short hike to the peak for panoramic view</li>
-  <li>Pre-order family-style dinner from vendors at the picnic benches</li>
-</ul>
-
-#### Wednesday May 28th
-<ul>
-  <li>Sail out of Tobago Cays to Salt Whistle Bay, Mayreau</li>
-  <ul>
-    <li>Duration: ~30 min</li>
-  </ul>
-  <li>Can spend time kiting & wing foiling</li>
-  <li>
-    Restaurants:
-  </li>
-  <ul>
-    <li>Last Bar Before the Jungle</li>
-    <li>Denis' Hideaway</li>
-    <li>Ranch Escapade</li>
-  </ul>
-</ul>
-
-#### Thursday May 29th
-<ul>
-  <li>Sail out of Mayreau to Clifton Bay, Union Island</li>
-  <ul>
-    <li>Duration: ~1 hr</li>
   </ul>
   <li>Can visit <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy</li>
   <li>Can rent scuba gear from <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
@@ -104,11 +76,39 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   </li>
 </ul>
 
+#### Wednesday May 28th
+<ul>
+  <li>Sail out of Clifton Bay, Union Island to Salt Whistle Bay, Mayreau</li>
+  <ul>
+    <li>Duration: ~45 min</li>
+  </ul>
+  <li>Can spend time kiting & wing foiling</li>
+  <li>
+    Restaurants:
+  </li>
+  <ul>
+    <li>Last Bar Before the Jungle</li>
+    <li>Denis' Hideaway</li>
+    <li>Ranch Escapade</li>
+  </ul>
+</ul>
+
+#### Thursday May 29th
+<ul>
+  <li>Salt Whistle Bay, Mayreau to Tobago Cays</li>
+  <ul>
+    <li>Duration: ~0.5 hrs</li>
+  </ul>
+  <li>Can snorkel around Tobago Cays, loads of wildlife</li>
+  <li>Short hike to the peak for panoramic view</li>
+  <li>Pre-order family-style dinner from vendors at the picnic benches</li>
+</ul>
+
 #### Friday May 30th
 <ul>
-  <li>Sail out of Union Island to Admiralty Bay, Bequia OR Mustique</li>
+  <li>Sail out of Tobago Cays to Admiralty Bay, Bequia OR Mustique</li>
   <ul>
-    <li>Duration: ~4 hrs</li>
+    <li>Duration: ~3.5-4 hrs</li>
   </ul>
 </ul>
 
