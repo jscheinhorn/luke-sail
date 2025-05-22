@@ -93,9 +93,6 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   <li>Can snorkel around Tobago Cays, loads of wildlife</li>
   <li>Short hike to the peak for panoramic view</li>
    <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
-  <ul>
-    <li>Can also arrange to go diving on other islands ahead of time</li>
-  </ul>
   <li>Pre-ordered family-style BBQ dinner from Romeo at the picnic benches</li>
 </ul>
 
