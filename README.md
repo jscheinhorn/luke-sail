@@ -31,10 +31,10 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 #### Sunday May 25th
 <ul>
   <li>Arrive in Kingstown, St Vincent</li>
-  <li>Do any provisioning</li>
   <li>Estimated boat access available after 5pm at Blue Lagoon Marina</li>
+  <li>Gather groceries from Paradise Foods provisioning</li>
   <li>Settle into the boats</li>
-  <li>Have dinner at the Marina / nearby</li>
+  <li>Have dinner at the Loft Restaurant in the Blue Lagoon Marina</li>
   <li>Sleep on the boats in the marina</li>
 </ul>
 
@@ -44,8 +44,10 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   <li>Sail out of Blue Lagoon Marina to Admiralty Bay, Bequia</li>
   <ul>
     <li>Duration: ~1.5 hrs</li>
+    <li><strong>NOTE:</strong> Some folks are arranging a guided hike to the top of La Soufrière volcano starting at 8am and plan to take the ferry to Bequia in the evening. Contact Veronica for details.</li>
   </ul>
-  <li>Walk along Princess Margaret Trail to Princess Margaret Beach</li>
+  <li>Walk along Princess Margaret Trail to Princess Margaret Beach and be beachy</li>
+  <li>Hike <a href="https://www.tripadvisor.com/Attraction_Review-g1480284-d20379943-Reviews-Mt_Peggy_hike-Port_Elizabeth_Bequia_St_Vincent_and_the_Grenadines.html">Mt. Peggy</a></li>
   <li>Visit any of the shops on shore
     <ul>
       <li><a href="https://www.google.com/maps/place/Sargeant+Brothers+Model+Boat+Shop/@13.0126655,-61.2384323,17z/data=!3m1!4b1!4m6!3m5!1s0x8c4759593ad70ac1:0x605f04f33a96b6ae!8m2!3d13.0126655!4d-61.2384323!16s%2Fg%2F11gdt2g7sf?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D">Sargeant Brothers Model boat shop</a></li>
@@ -56,33 +58,59 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 
 #### Tuesday May 27th
 <ul>
-  <li>Sail out of Bequia to Clifton Bay, Union Island</li>
+  <li>Sail out of Bequia to Frigate Island, Union Island</li>
   <ul>
     <li>Duration: ~4.5 hr</li>
-  </ul>
-  <ul>
     <li>Contingency stop at Canouan</li>
+    <li>NOTE: Those planning on taking a lesson are planning to leave Bequia early am to arrive in Union around noon</li>
   </ul>
-  <li>Can visit <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy</li>
-  <li>Can rent scuba gear from <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
-  <ul>
-    <li>Can also arrange to go diving on other islands ahead of time</li>
-  </ul>
-  <li>Can spend time kiting & wing foiling
+  <li>Take a kiting / wing / e- foiling lesson
     <ul>
       <li><a href="https://www.happykitegrenadines.com/">Happy Kite Grenadines</a></li>
       <li><a href="JT Pro Center">JT Pro Center</a></li>
     </ul>
   </li>
+  <li>Can hike up Frigate Rock / walk the suspension bridges</li>
+  <li>Dinner in Ashton</li>
 </ul>
 
 #### Wednesday May 28th
 <ul>
-  <li>Sail out of Clifton Bay, Union Island to Salt Whistle Bay, Mayreau</li>
+  <li>Afternoon Sail from Frigate Island to Clifton Harbor, Union Island</li>
   <ul>
-    <li>Duration: ~1.5 hr</li>
+    <li>Duration: ~1 hr</li>
   </ul>
-  <li>Can spend time kiting & wing foiling</li>
+  <li>Can spend time kiting & wing foiling at Frigate</li>
+  <li>Go to <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy for dinner / drinks</li>
+</ul>
+
+#### Thursday May 29th
+<ul>
+  <li>Clifton Harbor, Union Island to Tobago Cays</li>
+  <ul>
+    <li>Duration: ~1 hr</li>
+  </ul>
+  <li>Can snorkel around Tobago Cays, loads of wildlife</li>
+  <li>Short hike to the peak for panoramic view</li>
+   <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
+  <ul>
+    <li>Can also arrange to go diving on other islands ahead of time</li>
+  </ul>
+  <li>Pre-ordered family-style BBQ dinner from Romeo at the picnic benches</li>
+</ul>
+
+#### Friday May 30th
+<ul>
+  <li>Sail out Tobago Cays to Salt Whistle Bay, Mayreau</li>
+  <ul>
+    <li>Duration: ~1 hr</li>
+  </ul>
+  <li>Can spend time kiting</li>
+  <li>Can walk the island - the whole Island ~1.5 hour walk</li>
+   <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
+  <ul>
+    <li>Can also arrange to go diving on other islands ahead of time</li>
+  </ul>
   <li>
     Restaurants:
   </li>
@@ -93,31 +121,15 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   </ul>
 </ul>
 
-#### Thursday May 29th
-<ul>
-  <li>Salt Whistle Bay, Mayreau to Tobago Cays</li>
-  <ul>
-    <li>Duration: ~0.5 hrs</li>
-  </ul>
-  <li>Can snorkel around Tobago Cays, loads of wildlife</li>
-  <li>Short hike to the peak for panoramic view</li>
-  <li>Pre-order family-style dinner from vendors at the picnic benches</li>
-</ul>
-
-#### Friday May 30th
-<ul>
-  <li>Sail out of Tobago Cays to Admiralty Bay, Bequia OR Mustique</li>
-  <ul>
-    <li>Duration: ~3.5-4 hrs</li>
-  </ul>
-</ul>
-
 #### Saturday May 31st
-<ul><li>Sail out of Bequia/Mustique to Blue Lagoon Marina</li>
+<ul><li>Sail out of Tobago Cays to Blue Lagoon Marina</li>
   <ul>
-    <li>Duration: ~1.5 hrs</li>
+    <li>Duration: ~4.5 hrs</li>
+    <li>For those leaving early from Tobago Cays, expected arrival in Blue Lagoon ~noon</li>
   </ul>
-  <li>Dinner in the marina</li>
+  <li>Dinghy ride to Young Island</li>
+  <li>Explore Young Island</li>
+  <li>Dinner buffet at Young Island Resort Restaurant</li>
   <li>Sleep on the boats</li>
 </ul>
 
