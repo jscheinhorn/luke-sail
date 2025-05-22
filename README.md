@@ -107,10 +107,13 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   </ul>
   <li>Can spend time kiting</li>
   <li>Can walk the island - the whole Island ~1.5 hour walk</li>
-   <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
   <ul>
-    <li>Can also arrange to go diving on other islands ahead of time</li>
+    <li>Salt Whistle Bay: Known for its calm waters, light winds, and beautiful white sand beach.</li>
+    <li>Saline Bay: A larger bay with a ferry dock, offering a different kayaking experience. </li>
+    <li>Trois Anse Bay (Twassante Bay): Features the Mayreau Beach Club, offering additional kayaking options. </li>
+    <li>The Ranch Escapade: A less-visited windward side spot known for its pristine white sand and relaxed atmosphere. </li>
   </ul>
+   <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
   <li>
     Restaurants:
   </li>
@@ -119,6 +122,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
     <li>Denis' Hideaway</li>
     <li>Ranch Escapade</li>
   </ul>
+  <li>Read more about Mayreau in this <a href="https://www.travelandleisure.com/mayreau-st-vincent-and-the-grenadines-caribbean-island-11711301">Travel and Leisure articles</a></li>
 </ul>
 
 #### Saturday May 31st
