@@ -96,7 +96,6 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   </ul>
   <li>Can snorkel around Tobago Cays, loads of wildlife</li>
   <li>Short hike to the peak for panoramic view</li>
-   <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
   <li>Pre-ordered family-style BBQ dinner from Romeo at the picnic benches. Reservation at 6:30pm.</li>
 </ul>
 
@@ -115,6 +114,9 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
     <li>The Ranch Escapade: A less-visited windward side spot known for its pristine white sand and relaxed atmosphere. </li>
   </ul>
    <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
+    <ul>
+      <li>Glenroy is planning to take us out this morning.</li>
+    </ul>
   <li>
     Restaurants:
   </li>
