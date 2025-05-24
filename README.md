@@ -71,7 +71,11 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
     </ul>
   </li>
   <li>Can hike up Frigate Rock / walk the suspension bridges</li>
-  <li>Dinner in Ashton</li>
+  <li>Dinner at Sunset Cove in Chatham Bay. Reservation time ~6:30, TBD.</li>
+    <ul>
+      <li>We will likely motor up to Chatham Bay and anchor for the night.</li>
+      <li>🔥 There will be a post-dinner bonfire on the beach 🔥</li>
+    </ul>
 </ul>
 
 #### Wednesday May 28th
