@@ -26,7 +26,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 
 ---
 
-## 📅 Itinerary (IP)
+## 📅 Itinerary (UPDATED)
 
 #### Sunday May 25th
 <ul>
