@@ -27,14 +27,14 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
 ---
 
 ## 📅 Itinerary (UPDATED)
-
+Any day is a good day to lounge on the boat or the beach, but we have some additional itinerary suggestions and planned events below. 
 #### Sunday May 25th
 <ul>
   <li>Arrive in Kingstown, St Vincent</li>
   <li>Estimated boat access available after 5pm at Blue Lagoon Marina</li>
   <li>Gather groceries from Paradise Foods provisioning</li>
   <li>Settle into the boats</li>
-  <li>Have dinner at the Loft Restaurant in the Blue Lagoon Marina</li>
+  <li> 🍽️ Have dinner at the Loft Restaurant in the Blue Lagoon Marina. Reservation at 7pm.</li>
   <li>Sleep on the boats in the marina</li>
 </ul>
 
@@ -53,7 +53,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
       <li><a href="https://www.google.com/maps/place/Sargeant+Brothers+Model+Boat+Shop/@13.0126655,-61.2384323,17z/data=!3m1!4b1!4m6!3m5!1s0x8c4759593ad70ac1:0x605f04f33a96b6ae!8m2!3d13.0126655!4d-61.2384323!16s%2Fg%2F11gdt2g7sf?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D">Sargeant Brothers Model boat shop</a></li>
     </ul>
   </li>
-  <li>Have dinner at <a href="https://jacksbeachbar.com/#Menu">Jack's Beach Bar</a>. Reservation at 7pm.</li>
+  <li>🍽️ Have dinner at <a href="https://jacksbeachbar.com/#Menu">Jack's Beach Bar</a>. Reservation at 7pm.</li>
 </ul>
 
 #### Tuesday May 27th
@@ -64,14 +64,14 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
     <li>Contingency stop at Canouan</li>
     <li>NOTE: Those planning on taking a lesson are planning to leave Bequia early am to arrive in Union around noon</li>
   </ul>
-  <li>Take a kiting / wing / e- foiling lesson
+  <li>🏄‍♀️ Take a kiting / wing / e- foiling lesson
     <ul>
       <li><a href="https://www.happykitegrenadines.com/">Happy Kite Grenadines</a></li>
       <li><a href="JT Pro Center">JT Pro Center</a></li>
     </ul>
   </li>
   <li>Can hike up Frigate Rock / walk the suspension bridges</li>
-  <li>Dinner at Sunset Cove in Chatham Bay. Reservation time ~6:30, TBD.</li>
+  <li>🍽️ Dinner at Sunset Cove in Chatham Bay. Reservation time ~6:30, TBD.</li>
     <ul>
       <li>We will likely motor up to Chatham Bay and anchor for the night.</li>
       <li>🔥 There will be a post-dinner bonfire on the beach 🔥</li>
@@ -84,8 +84,9 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   <ul>
     <li>Duration: ~1 hr</li>
   </ul>
-  <li>Can spend time kiting & wing foiling at Frigate</li>
-  <li>Go to <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy for dinner / drinks. Dinner reservation 6:30pm.</li>
+  <li>🏄‍♀️ Can spend time kiting & wing foiling at Frigate</li>
+  <li>Explore Ashton</li>
+  <li>🍽️ Go to <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy for dinner / drinks. Dinner reservation 6:30pm.</li>
 </ul>
 
 #### Thursday May 29th
@@ -96,7 +97,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   </ul>
   <li>Can snorkel around Tobago Cays, loads of wildlife</li>
   <li>Short hike to the peak for panoramic view</li>
-  <li>Pre-ordered family-style BBQ dinner from Romeo at the picnic benches. Reservation at 6:30pm.</li>
+  <li>🍽️ Pre-ordered family-style BBQ dinner from Romeo at the picnic benches. Reservation at 6:30pm.</li>
 </ul>
 
 #### Friday May 30th
@@ -113,7 +114,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
     <li>Trois Anse Bay (Twassante Bay): Features the Mayreau Beach Club, offering additional kayaking options. </li>
     <li>The Ranch Escapade: A less-visited windward side spot known for its pristine white sand and relaxed atmosphere. </li>
   </ul>
-   <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
+   <li>🤿 Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
     <ul>
       <li>Glenroy is planning to take us out this morning.</li>
     </ul>
@@ -136,7 +137,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   </ul>
   <li>Dinghy ride to Young Island</li>
   <li>Explore Young Island</li>
-  <li>Dinner buffet at Young Island Resort Restaurant. Reservation at 7pm.</li>
+  <li>🍽️ Dinner buffet at Young Island Resort Restaurant. Reservation at 7pm.</li>
   <li>Sleep on the boats</li>
 </ul>
 
