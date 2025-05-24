@@ -53,7 +53,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
       <li><a href="https://www.google.com/maps/place/Sargeant+Brothers+Model+Boat+Shop/@13.0126655,-61.2384323,17z/data=!3m1!4b1!4m6!3m5!1s0x8c4759593ad70ac1:0x605f04f33a96b6ae!8m2!3d13.0126655!4d-61.2384323!16s%2Fg%2F11gdt2g7sf?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D">Sargeant Brothers Model boat shop</a></li>
     </ul>
   </li>
-  <li>Have dinner at <a href="https://jacksbeachbar.com/#Menu">Jack's Beach Bar</a> (or other, will make reservations)</li>
+  <li>Have dinner at <a href="https://jacksbeachbar.com/#Menu">Jack's Beach Bar</a>. Reservation at 7pm.</li>
 </ul>
 
 #### Tuesday May 27th
@@ -81,7 +81,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
     <li>Duration: ~1 hr</li>
   </ul>
   <li>Can spend time kiting & wing foiling at Frigate</li>
-  <li>Go to <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy for dinner / drinks</li>
+  <li>Go to <a href="https://www.facebook.com/happyislandgrenadines">Happy Island</a> by dinghy for dinner / drinks. Dinner reservation 6:30pm.</li>
 </ul>
 
 #### Thursday May 29th
@@ -93,7 +93,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   <li>Can snorkel around Tobago Cays, loads of wildlife</li>
   <li>Short hike to the peak for panoramic view</li>
    <li>Dive with <a href="https://www.grenadinesdive.com/ScubaDiving.html">Grenadines Dive</a> </li>
-  <li>Pre-ordered family-style BBQ dinner from Romeo at the picnic benches</li>
+  <li>Pre-ordered family-style BBQ dinner from Romeo at the picnic benches. Reservation at 6:30pm.</li>
 </ul>
 
 #### Friday May 30th
@@ -130,7 +130,7 @@ Caribbean Airlines also has a direct flight to St Vincent, but different days.
   </ul>
   <li>Dinghy ride to Young Island</li>
   <li>Explore Young Island</li>
-  <li>Dinner buffet at Young Island Resort Restaurant</li>
+  <li>Dinner buffet at Young Island Resort Restaurant. Reservation at 7pm.</li>
   <li>Sleep on the boats</li>
 </ul>
 
